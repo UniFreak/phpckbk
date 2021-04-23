@@ -1,0 +1,6 @@
+
+---- EXPECTED OUTPUT
+
+---- ACTUAL OUTPUT
+string(13) "Hello, world!"
+---- FAILED
